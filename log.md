@@ -13,21 +13,17 @@ https://daveredfern.com/use-units-css/
 Did a few challenges on http://mytechinterviews.com. They ALWAYS trip me up!
 
 
-**Thoughts:** I think some things with Leetcode got clearer after the video. So it did provide a bit of insight even though I wS SKEPTICAL 
-
 
 ### Day 2:  August  28, 2021 
  -->
 **Today's Progress**: 
 Fixed media queries, and learned more about Redux
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 ### Day 3:  August  29, 2021 
 
 **Today's Progress**:Had a restful Sunday. Read an interesting article on Medium   
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
@@ -44,7 +40,6 @@ Refreshed and got some clarity on Time complexity
 Did a few challenges on http://mytechinterviews.com. They ALWAYS trip me up!
 
 
-**Thoughts:** I think some things with Leetcode got clearer after the video. So it did provide a bit of insight even though I wS SKEPTICAL 
 
 
 ### Day 5: August  31, 2021 
@@ -56,9 +51,6 @@ Refreshed and got some clarity on Time complexity
 Did a few challenges on http://mytechinterviews.com. They ALWAYS trip me up!
 
 
-**Thoughts:** I think some things with Leetcode got clearer after the video. So it did provide a bit of insight even though I wS SKEPTICAL 
-
-
 
 ### Day 6: August  29, 2021 
 <!-- ##### (delete me or comment me out) -->
@@ -67,9 +59,6 @@ Did a few challenges on http://mytechinterviews.com. They ALWAYS trip me up!
 Refreshed and got some clarity on Time complexity
  
 Did a few challenges on http://mytechinterviews.com. They ALWAYS trip me up!
-
-
-**Thoughts:** I think some things with Leetcode got clearer after the video. So it did provide a bit of insight even though I wS SKEPTICAL 
 
 
 
@@ -94,9 +83,6 @@ Refreshed and got some clarity on Time complexity
 Did a few challenges on http://mytechinterviews.com. They ALWAYS trip me up!
 
 
-**Thoughts:** I think some things with Leetcode got clearer after the video. So it did provide a bit of insight even though I wS SKEPTICAL 
-
-
 
 ### Day 9: January  18, 2021 
 <!-- ##### (delete me or comment me out) -->
@@ -107,9 +93,6 @@ Refreshed and got some clarity on Time complexity
 Did a few challenges on http://mytechinterviews.com. They ALWAYS trip me up!
 
 
-**Thoughts:** I think some things with Leetcode got clearer after the video. So it did provide a bit of insight even though I wS SKEPTICAL 
-
-
 ### Day 10: January  18, 2021 
 <!-- ##### (delete me or comment me out) -->
 
@@ -117,9 +100,6 @@ Did a few challenges on http://mytechinterviews.com. They ALWAYS trip me up!
 Refreshed and got some clarity on Time complexity
  
 Did a few challenges on http://mytechinterviews.com. They ALWAYS trip me up!
-
-
-**Thoughts:** I think some things with Leetcode got clearer after the video. So it did provide a bit of insight even though I wS SKEPTICAL 
 
 
 
@@ -132,9 +112,6 @@ Refreshed and got some clarity on Time complexity
 Did a few challenges on http://mytechinterviews.com. They ALWAYS trip me up!
 
 
-**Thoughts:** I think some things with Leetcode got clearer after the video. So it did provide a bit of insight even though I wS SKEPTICAL 
-
-
 
 ### Day 12: January  18, 2021 
 <!-- ##### (delete me or comment me out) -->
@@ -143,9 +120,6 @@ Did a few challenges on http://mytechinterviews.com. They ALWAYS trip me up!
 Refreshed and got some clarity on Time complexity
  
 Did a few challenges on http://mytechinterviews.com. They ALWAYS trip me up!
-
-
-**Thoughts:** I think some things with Leetcode got clearer after the video. So it did provide a bit of insight even though I wS SKEPTICAL 
 
 
 
@@ -157,8 +131,6 @@ Refreshed and got some clarity on Time complexity
  
 Did a few challenges on http://mytechinterviews.com. They ALWAYS trip me up!
 
-
-**Thoughts:** I think some things with Leetcode got clearer after the video. So it did provide a bit of insight even though I wS SKEPTICAL 
 
 
 
