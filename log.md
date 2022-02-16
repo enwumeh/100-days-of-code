@@ -75,6 +75,8 @@ ________________________________________________________________________________
 ### Day 1: February 16, 2022
 
 **Today's Progress**: 
-finished 10 days of JS
-failed at some leetcode but got Plus one and some others 
-D
+attempted to finish 10 days of JS
+did Plus one and some others on Leetcode 
+did this but cant figure out why the button won't change on click: https://www.hackerrank.com/challenges/js10-buttons-container/problem
+
+
