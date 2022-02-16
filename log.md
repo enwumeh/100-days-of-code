@@ -71,12 +71,9 @@ Refreshed and got some clarity on Time complexity
 Did a few challenges on http://mytechinterviews.com. They ALWAYS trip me up!
 
 _________________________________________________________________________________________________________________________________________________________
-#### STARTING OVER (failed miserably)
-### Day 7: January  18, 2021 
+## STARTING OVER (failed miserably)
+### Day 7: February 16, 2022
 
-<!-- ##### (delete me or comment me out) -->
-
-**Today's Progress**: Did a few Leetcode problems on arrays and finished MIT course  1. Algorithmic thinking, peak finding on YT. 
-Refreshed and got some clarity on Time complexity
- 
-Did a few challenges on http://mytechinterviews.com. They ALWAYS trip me up!
+**Today's Progress**: 
+failed at some leetcode but got Plus one and some others 
+D
