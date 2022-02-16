@@ -72,7 +72,7 @@ Did a few challenges on http://mytechinterviews.com. They ALWAYS trip me up!
 
 _________________________________________________________________________________________________________________________________________________________
 ## STARTING OVER (failed miserably)
-### Day 7: February 16, 2022
+### Day 1: February 16, 2022
 
 **Today's Progress**: 
 failed at some leetcode but got Plus one and some others 
