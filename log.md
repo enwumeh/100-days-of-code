@@ -75,5 +75,6 @@ ________________________________________________________________________________
 ### Day 1: February 16, 2022
 
 **Today's Progress**: 
+finished 10 days of JS
 failed at some leetcode but got Plus one and some others 
 D
