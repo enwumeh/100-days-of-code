@@ -16,3 +16,10 @@
 - worked on trello ticket
 -  discovered some sort and search problems on Hackkerrank
 
+### Day 3: March  3, 2022
+
+**Today's Progress**: 
+
+- unique letter in string 
+
+
