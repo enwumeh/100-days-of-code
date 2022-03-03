@@ -13,5 +13,6 @@
 
 **Today's Progress**: 
 
-- stay tuned 
+- worked on trello ticket
+-  discovered some sort and search problems on Hackkerrank
 
