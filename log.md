@@ -22,4 +22,9 @@
 
 - unique letter in string 
 
+### Day 3: March  3, 2022
+
+**Today's Progress**: 
+
+- Add 2 Numbers 
 
