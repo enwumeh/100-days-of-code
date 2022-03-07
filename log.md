@@ -40,7 +40,6 @@
 **Today's Progress**: 
 
 - Hackkerank challenges,
-- finished/resolved ticket
 - started take home interview 
 
 ### Day 7: March  7, 2022
