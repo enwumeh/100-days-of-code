@@ -22,9 +22,29 @@
 
 - unique letter in string 
 
-### Day 3: March  3, 2022
+### Day 4: March  4, 2022
 
 **Today's Progress**: 
 
 - Add 2 Numbers 
 
+
+### Day 5: March  5, 2022
+
+**Today's Progress**: 
+
+- did research for a take home interview 
+
+### Day 6: March  6, 2022
+
+**Today's Progress**: 
+
+- Hackkerank challenges,
+- finished/resolved ticket
+- started take home interview 
+
+### Day 7: March  7, 2022
+
+**Today's Progress**: 
+
+-TBD
