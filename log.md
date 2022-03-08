@@ -50,9 +50,9 @@
 
 
 ### Day 8: March  8, 2022
--TBD
-**Today's Progress**: 
 
+**Today's Progress**: 
+-226. Invert Search Tree
 - 
 ### Day 9: March  9, 2022
 
