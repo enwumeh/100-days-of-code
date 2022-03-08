@@ -47,3 +47,20 @@
 **Today's Progress**: 
 
 -TBD
+
+
+### Day 8: March  8, 2022
+-TBD
+**Today's Progress**: 
+
+- 
+### Day 9: March  9, 2022
+
+**Today's Progress**: 
+
+- 
+### Day 10: March  10, 2022
+
+**Today's Progress**: 
+
+
