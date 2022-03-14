@@ -48,12 +48,10 @@
 
 -N/A
 
-
 ### Day 8: March  8, 2022
 
 **Today's Progress**: 
--226. Invert Search Tree
-- learned about BFS and DFS
+
 - 
 ### Day 9: March  9, 2022
 
@@ -67,14 +65,12 @@
 
 **Today's Progress**: 
 
--N/A
 
 
 ### Day 12: March  12, 2022
 
 **Today's Progress**: 
--226. Invert Search Tree
-- learned about BFS and DFS
+
 - 
 ### Day 13: March  13, 2022
 
