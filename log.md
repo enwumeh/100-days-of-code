@@ -81,4 +81,6 @@
 **Today's Progress**:
 - Leetcode: 136 single number
 - Leetcode: 168. Excel Sheet Column Title
+- Leetcode: Summary Ranges ATTEMPTED
+- Leetcode: Remove Linked List Elements ATTEMPTED
 
