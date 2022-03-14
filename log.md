@@ -63,4 +63,24 @@
 
 **Today's Progress**: 
 
+### Day 11: March  11, 2022
 
+**Today's Progress**: 
+
+-N/A
+
+
+### Day 12: March  12, 2022
+
+**Today's Progress**: 
+-226. Invert Search Tree
+- learned about BFS and DFS
+- 
+### Day 13: March  13, 2022
+
+**Today's Progress**: 
+
+### Day 14: March  14, 2022
+
+**Today's Progress**:
+- 136 single number
